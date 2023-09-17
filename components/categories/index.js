@@ -18,4 +18,5 @@ function Categories({ categories }) {
     </div>
   );
 }
+
 export default Categories;
